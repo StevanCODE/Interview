@@ -1,0 +1,15 @@
+.pagination {
+    display: flex;
+    flex-flow: row wrap;
+    list-style: none;
+}
+
+.li {
+    margin: 10px 10px;
+    
+}
+
+.link {
+    text-decoration: none;  
+    color: blue;
+}
